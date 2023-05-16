@@ -1,0 +1,43 @@
+REFERÊNCIAS - METODOS
+
+
+DEMOGRAFIA
+
+http://www.abep.nepo.unicamp.br/docs/outraspub/demoedu/parte1cap1p13a44.pdf
+Cerqueira, C.A. e Givisiez, G. H. N.
+
+
+dinâmica populacional
+
+BASSANEZI, Rodney Carlos. Ensino aprendizagem com modelagem matemática. São Paulo: Editora Contexto, 2002.
+
+http://www.estudopratico.com.br/dinamica-populacional/
+
+http://www.infoescola.com/geografia/dinamica-populacional/
+
+sistema presa predador
+
+http://ecologia.ib.usp.br/ecopop/lib/exe/fetch.php?media=matapoio:aula5.pdf
+
+http://nead.uesc.br/arquivos/Biologia/LIVRO-ECONOMIA-DA-NATUREZA-UNIDADE-EB4/cap18.pdf
+
+GOMES, M.C, Interação Entre Espécies
+
+modelagem matemática
+
+Um proposta de modelagem matemática como estratégia de ensino
+taciana maciel baggio
+http://www.somaticaeducar.com.br/arquivo/artigo/1-2008-09-04-18-05-46.pdf
+
+
+https://pt.wikipedia.org/wiki/Din%C3%A2mica_populacional
+acesso em 20 de março de 2016
+
+
+runge kutta
+KARINE NAYARA F VALE
+METODOS NUMERICOS DE EULER E RUNGE KUTTA
+UFMG
+http://www.mat.ufmg.br/~espec/Monografias_Noturna/Monografia_KarineNayara.pdf
+
+
